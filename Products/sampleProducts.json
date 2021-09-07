@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "老豆腐",
+        "description": "豆腐,豆类,豆制品,蛋白质",
+        "category": "豆制品,豆腐",
+        "price": 1.69
+    },
+    {
+        "id": 2,
+        "name": "嫩豆腐",
+        "description": "豆腐,豆类,豆制品,蛋白质",
+        "category": "豆制品,豆腐",
+        "price": 1.89
+    },
+    {
+        "id": 3,
+        "name": "山水牌嫩豆腐",
+        "description": "豆腐,豆类,豆制品,蛋白质",
+        "category": "豆制品,豆腐",
+        "price": 2.09
+    },
+    {
+        "id": 4,
+        "name": "北方干豆腐",
+        "description": "豆腐,豆类,豆制品,蛋白质",
+        "category": "豆制品,豆腐",
+        "price": 1.89
+    },
+    {
+        "id": 5,
+        "name": "大田滑豆腐",
+        "description": "豆腐,豆类,豆制品,蛋白质",
+        "category": "豆制品,豆腐",
+        "price": 1.49
+    },
+    {
+        "id": 6,
+        "name": "特级鱼豆腐",
+        "description": "豆制品,豆腐,加工类,豆制品,火锅食品,蛋白质",
+        "category": "海鲜",
+        "price": 5.89
+    },
+    {
+        "id": 7,
+        "name": "好巴食鱼豆腐",
+        "description": "豆制品,豆腐,麻辣",
+        "Category": "零食",
+        "price": 1.89
+    },
+    {
+        "id": 8,
+        "name": "四川麻婆豆腐料",
+        "description": "调料,麻辣,麻婆豆腐,川味",
+        "Category": "调料",
+        "price": 1.29
+    },
+    {
+        "id": 9,
+        "name": "小肥羊麻辣火锅底料",
+        "description": "火锅调料,麻辣,川味,火锅",
+        "category": "调料,火锅底料",
+        "price": 4.69
+    },
+    {
+        "id": 10,
+        "name": "大红袍红汤火锅底料",
+        "description": "火锅调料,麻辣,川味,火锅",
+        "category": "调料,火锅底料",
+        "price": 2.69
+    },
+    {
+        "id": 11,
+        "name": "热辣壹号老灶火锅底料",
+        "description": "火锅调料,麻辣,川味,牛油,火锅",
+        "category": "调料,火锅底料",
+        "price": 4.39
+    },
+    {
+        "id": 12,
+        "name": "海底捞番茄火锅底料",
+        "description": "火锅调料,番茄味,火锅",
+        "category": "调料,火锅底料",
+        "price": 4.19
+    },
+    {
+        "id": 13,
+        "name": "德庄火锅调味油",
+        "description": "火锅调料,蘸料,油碟,火锅",
+        "category": "调料,火锅调味料",
+        "price": 1.19
+    },
+    {
+        "id": 14,
+        "name": "小肥羊麻辣火锅蘸料",
+        "description": "火锅调料,蘸料,芝麻酱,火锅",
+        "category": "调料,火锅调味料",
+        "price": 2.19
+    },
+    {
+        "id": 15,
+        "name": "小肥羊清香火锅蘸料",
+        "description": "火锅调料,蘸料,芝麻酱,火锅",
+        "category": "调料,火锅调味料",
+        "price": 2.19
+    },
+    {
+        "id": 16,
+        "name": "伊利牛奶",
+        "description": "牛奶,纯牛奶,伊利,蛋白质",
+        "category": "牛奶,奶制品",
+        "price": 1.89
+    }
+]
