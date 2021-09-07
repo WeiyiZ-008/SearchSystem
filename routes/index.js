@@ -7,9 +7,9 @@ router.get('/', (req, res) => {
     res.render("welcome");
 });
 
-// Dashboard page
-router.get('/dashboard', ensureAuthenticated, (req, res) => {
-    res.render("dashboard", {
+// Search product page
+router.get('/search', ensureAuthenticated, (req, res) => {
+    res.render("searchproduct", {
         name: req.user.name
     });
 });

@@ -6,6 +6,8 @@ const flash = require('connect-flash');
 const session = require('express-session');
 const passport = require('passport');
 
+const client = require('./elasticsearch');
+
 
 // TODO: we can add the .js file where we configure the ES 
 
@@ -59,6 +61,7 @@ app.use((req, res, next) => {
 // Routes
 app.use('/', require('./routes/index'));
 app.use('/users', require('./routes/users'));
+app.use('/search', require('./routes/search'));
 
 
 const PORT = process.env.PORT || 5000;

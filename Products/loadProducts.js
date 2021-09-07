@@ -39,7 +39,7 @@ async function indexData() {
     const productsRaw = await fs.readFileSync('./sampleProducts.json');
     const products = JSON.parse(productsRaw);
     console.log(`${products.length} items parsed from sampel data file`);
-    bulkIndex('search-products', '_doc', products);
+    bulkIndex('search_products', '_doc', products);
 };
 
 indexData();
